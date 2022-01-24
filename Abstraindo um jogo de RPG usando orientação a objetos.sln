@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraindo um jogo de RPG usando orientação a objetos", "Abstraindo um jogo de RPG usando orientação a objetos\Abstraindo um jogo de RPG usando orientação a objetos.csproj", "{B93B3172-E27E-4782-8A75-D055D1B6095D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93B3172-E27E-4782-8A75-D055D1B6095D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93B3172-E27E-4782-8A75-D055D1B6095D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93B3172-E27E-4782-8A75-D055D1B6095D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93B3172-E27E-4782-8A75-D055D1B6095D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C418ED9-D4A1-4862-981C-EC3E673CD98F}
+	EndGlobalSection
+EndGlobal
